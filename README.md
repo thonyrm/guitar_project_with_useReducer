@@ -18,6 +18,18 @@ La app permite:
   
 ---
 
+## 📂 Estructura del proyecto
+
+```
+├─ components/ # Componentes reutilizables 
+├─ Hooks/ # Custom hooks (useActivity)
+├─ reducer/ # Reducer principal  (guitaryReducer)
+├─ types/ # Definición de types (Category, Expenses, etc.)
+├─ data/ # Data local.
+└─ App.jsx # Punto de entrada principal
+```
+---
+
 ## 🔧 Setup del proyecto
 
 1. Clonar el repositorio:
